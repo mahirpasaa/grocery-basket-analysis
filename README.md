@@ -54,7 +54,7 @@ a concrete retail action.
 ## Run it yourself
 
 ```bash
-git clone https://github.com/<your-username>/grocery-basket-analysis.git
+git clone https://github.com/mahirpasaa/grocery-basket-analysis.git
 cd grocery-basket-analysis
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
